@@ -1,6 +1,6 @@
 # ZERO: Zero-shot Event Risk Observation Framework for Taiwan Traffic Risk Accident Predict
 
-This repository contains our submission for the **Taiwan Future Accident Classification Challenge (TAISC) 2025**, implementing a traffic accident risk classification system using the [Qwen2.5-VL-72B](https://huggingface.co/Qwen/Qwen2.5-VL-72B-Instruct) vision-language model through advanced prompt engineering and intelligent video sampling strategies. Our ZERO framework achieved an **weighted score of 0.5928** in the TAISC 2025, demonstrating exceptional performance in zero-shot traffic accident risk classification.
+This repository contains our submission for the 2025 Taiwan Future Accident Classification Challenge (TAISC). Our ZERO framework achieved a weighted score of 0.5928 in the competition, demonstrating exceptional performance in zero-shot traffic accident risk classification.
 
 ## System Architecture
 
